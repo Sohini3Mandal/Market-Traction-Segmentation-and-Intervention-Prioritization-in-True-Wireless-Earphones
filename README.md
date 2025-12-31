@@ -4,12 +4,6 @@
 
 ---
 
-## 📄 Project Report
-
-➡️ [Download Full Report (PDF)](Market%20Traction%20Segmentation%20and%20Intervention%20Prioritization%20in%20True%20Wireless%20Earphones%20(Report).pdf)
-
----
-
 ## 📌 Overview
 
 E-commerce platforms host large product catalogs where **observable market behavior** varies across price levels, user ratings, and cumulative engagement. When direct information on **sales, exposure, or product lifecycle stage** is unavailable, publicly observable signals can be used to examine **relative market traction**.
